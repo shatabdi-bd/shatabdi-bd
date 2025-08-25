@@ -1,5 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Shatabdi Sharma</h1>
+<p align="center">
+<img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
+</p>
+
+
 <h3 align="center">💻 ASP.NET Developer | Backend Engineer | Clean Code Enthusiast</h3>
 
 <p align="center">
@@ -15,7 +20,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔹 5+ years of experience in full-stack ASP.NET application development  
+- 🔹 6+ years of experience in full-stack ASP.NET application development  
 - 🔹 Strong in **ASP.NET Core**, **Web API**, **EF Core**, **SQL Server**, **JavaScript**, **Clean Architecture**  
 - 🔹 Experienced with **Microservices**, **CQRS**, **Kafka**, **Docker**, and **CI/CD**  
 - 🔹 Passionate about clean code, system design, and high-performance backend systems  
