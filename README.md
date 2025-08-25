@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shatabdi Sharma</h1>
 <p align="center">
-<img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
+<img align="center" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 </p>
 
 
